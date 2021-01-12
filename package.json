@@ -1,0 +1,13 @@
+{
+  "name": "@braydenkilleen/prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config.",
+  "main": "prettier.config.js",
+  "repository": "https://github.com/braydenkilleen/prettier-config",
+  "author": "Brayden Killeen",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
